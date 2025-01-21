@@ -15,7 +15,8 @@ Este repositório contém minhas anotações e práticas do curso **"Playwright 
 
 - **_03PageObjectModel**: Exemplos demonstrando como aplicar o padrão **Page Object Model** para organizar os testes e torná-los mais reutilizáveis e fáceis de manter.
 
-- **firstTest.spec.ts**: Um teste básico criado para configurar e validar o ambiente inicial.
+-- **firstTest.spec.ts**: Um teste que organiza todo o código anterior e refatora no modelo de **Page Object**.
+
 
 ## Arquivos de Configuração
 
